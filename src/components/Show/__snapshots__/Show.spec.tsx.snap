@@ -1,0 +1,277 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Show component should render with "{"episodes":1,"id":"","product_image_url":"","title":"title1"}" 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c2 {
+  font-size: 32px;
+  line-height: 34px;
+  font-weight: 700;
+}
+
+.c3 {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.c4 {
+  min-width: 320px;
+  width: 100%;
+  margin-top: 10px;
+}
+
+<article
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2"
+    >
+      title1
+    </span>
+  </div>
+  <div
+    className="c1"
+  >
+    <span
+      className="c3"
+    >
+      Number of episodes 
+      1
+    </span>
+  </div>
+  <img
+    className="c4"
+    src="http://localhost:4000"
+  />
+</article>
+`;
+
+exports[`renders Show component should render with "{"episodes":1,"id":"","product_image_url":"","title":"title2"}" 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c2 {
+  font-size: 32px;
+  line-height: 34px;
+  font-weight: 700;
+}
+
+.c3 {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.c4 {
+  min-width: 320px;
+  width: 100%;
+  margin-top: 10px;
+}
+
+<article
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2"
+    >
+      title2
+    </span>
+  </div>
+  <div
+    className="c1"
+  >
+    <span
+      className="c3"
+    >
+      Number of episodes 
+      1
+    </span>
+  </div>
+  <img
+    className="c4"
+    src="http://localhost:4000"
+  />
+</article>
+`;
+
+exports[`renders Show component should render with "{"episodes":2,"id":"","product_image_url":"","title":"title1"}" 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c2 {
+  font-size: 32px;
+  line-height: 34px;
+  font-weight: 700;
+}
+
+.c3 {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.c4 {
+  min-width: 320px;
+  width: 100%;
+  margin-top: 10px;
+}
+
+<article
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2"
+    >
+      title1
+    </span>
+  </div>
+  <div
+    className="c1"
+  >
+    <span
+      className="c3"
+    >
+      Number of episodes 
+      2
+    </span>
+  </div>
+  <img
+    className="c4"
+    src="http://localhost:4000"
+  />
+</article>
+`;
+
+exports[`renders Show component should render with "{"episodes":2,"id":"","product_image_url":"","title":"title2"}" 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c2 {
+  font-size: 32px;
+  line-height: 34px;
+  font-weight: 700;
+}
+
+.c3 {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.c4 {
+  min-width: 320px;
+  width: 100%;
+  margin-top: 10px;
+}
+
+<article
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2"
+    >
+      title2
+    </span>
+  </div>
+  <div
+    className="c1"
+  >
+    <span
+      className="c3"
+    >
+      Number of episodes 
+      2
+    </span>
+  </div>
+  <img
+    className="c4"
+    src="http://localhost:4000"
+  />
+</article>
+`;

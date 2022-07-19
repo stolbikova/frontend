@@ -1,0 +1,173 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders ShowPreview component should render with "{"selected":false,"episodes":1,"id":"","product_image_url":"","title":"title1"}" 1`] = `
+.c0 {
+  margin-right: 5px;
+}
+
+.c1 {
+  width: 50px;
+}
+
+<li
+  className="c0"
+  onClick={[Function]}
+  selected={false}
+>
+  <img
+    className="c1"
+    src="http://localhost:4000"
+  />
+</li>
+`;
+
+exports[`renders ShowPreview component should render with "{"selected":false,"episodes":1,"id":"","product_image_url":"","title":"title2"}" 1`] = `
+.c0 {
+  margin-right: 5px;
+}
+
+.c1 {
+  width: 50px;
+}
+
+<li
+  className="c0"
+  onClick={[Function]}
+  selected={false}
+>
+  <img
+    className="c1"
+    src="http://localhost:4000"
+  />
+</li>
+`;
+
+exports[`renders ShowPreview component should render with "{"selected":false,"episodes":2,"id":"","product_image_url":"","title":"title1"}" 1`] = `
+.c0 {
+  margin-right: 5px;
+}
+
+.c1 {
+  width: 50px;
+}
+
+<li
+  className="c0"
+  onClick={[Function]}
+  selected={false}
+>
+  <img
+    className="c1"
+    src="http://localhost:4000"
+  />
+</li>
+`;
+
+exports[`renders ShowPreview component should render with "{"selected":false,"episodes":2,"id":"","product_image_url":"","title":"title2"}" 1`] = `
+.c0 {
+  margin-right: 5px;
+}
+
+.c1 {
+  width: 50px;
+}
+
+<li
+  className="c0"
+  onClick={[Function]}
+  selected={false}
+>
+  <img
+    className="c1"
+    src="http://localhost:4000"
+  />
+</li>
+`;
+
+exports[`renders ShowPreview component should render with "{"selected":true,"episodes":1,"id":"","product_image_url":"","title":"title1"}" 1`] = `
+.c0 {
+  margin-right: 5px;
+  border: 2px solid red;
+}
+
+.c1 {
+  width: 50px;
+}
+
+<li
+  className="c0"
+  onClick={[Function]}
+  selected={true}
+>
+  <img
+    className="c1"
+    src="http://localhost:4000"
+  />
+</li>
+`;
+
+exports[`renders ShowPreview component should render with "{"selected":true,"episodes":1,"id":"","product_image_url":"","title":"title2"}" 1`] = `
+.c0 {
+  margin-right: 5px;
+  border: 2px solid red;
+}
+
+.c1 {
+  width: 50px;
+}
+
+<li
+  className="c0"
+  onClick={[Function]}
+  selected={true}
+>
+  <img
+    className="c1"
+    src="http://localhost:4000"
+  />
+</li>
+`;
+
+exports[`renders ShowPreview component should render with "{"selected":true,"episodes":2,"id":"","product_image_url":"","title":"title1"}" 1`] = `
+.c0 {
+  margin-right: 5px;
+  border: 2px solid red;
+}
+
+.c1 {
+  width: 50px;
+}
+
+<li
+  className="c0"
+  onClick={[Function]}
+  selected={true}
+>
+  <img
+    className="c1"
+    src="http://localhost:4000"
+  />
+</li>
+`;
+
+exports[`renders ShowPreview component should render with "{"selected":true,"episodes":2,"id":"","product_image_url":"","title":"title2"}" 1`] = `
+.c0 {
+  margin-right: 5px;
+  border: 2px solid red;
+}
+
+.c1 {
+  width: 50px;
+}
+
+<li
+  className="c0"
+  onClick={[Function]}
+  selected={true}
+>
+  <img
+    className="c1"
+    src="http://localhost:4000"
+  />
+</li>
+`;
