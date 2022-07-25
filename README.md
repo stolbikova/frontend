@@ -7,7 +7,10 @@
     ```
 * Start the dev server
   ```
+  npm install
   npm run start:webpack
+  or
+  yarn install
   yarn start:webpack
     ```
 * Run test
