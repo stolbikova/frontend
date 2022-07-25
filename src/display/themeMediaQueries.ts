@@ -1,20 +1,3 @@
-/**
- * Creates an object with the keys "min" and "max" which each have keys for the
- * devices (viewport sizes) listed by the "sizes" object. Each viewport function
- * is a template string function which creates a media query.
- *
- * @see https://www.styled-components.com/docs/advanced#media-templates
- * @example
- * ```
- *  const Content = styled.div`
- *    height: 3em;
- *
- *    ${props => props.theme.media.min.tablet`
- *      background: dodgerblue;
- *    `}
- *  `;
- * ```
- */
 import {
   Interpolation,
   ThemedStyledProps,
